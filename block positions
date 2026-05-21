@@ -1,0 +1,164 @@
+[
+  {
+    "type": "spawn_block",
+    "pos": [
+      116,
+      301
+    ],
+    "size_cm": 3.2,
+    "color": "yellow"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      116,
+      331
+    ],
+    "size_cm": 3.2,
+    "color": "yellow"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      85,
+      301
+    ],
+    "size_cm": 3.2,
+    "color": "yellow"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      86,
+      330
+    ],
+    "size_cm": 3.2,
+    "color": "yellow"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      56,
+      300
+    ],
+    "size_cm": 3.2,
+    "color": "yellow"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      57,
+      331
+    ],
+    "size_cm": 3.2,
+    "color": "yellow"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      56,
+      229
+    ],
+    "size_cm": 3.2,
+    "color": "blue"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      85,
+      229
+    ],
+    "size_cm": 3.2,
+    "color": "blue"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      115,
+      228
+    ],
+    "size_cm": 3.2,
+    "color": "blue"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      57,
+      256
+    ],
+    "size_cm": 3.2,
+    "color": "blue"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      86,
+      256
+    ],
+    "size_cm": 3.2,
+    "color": "blue"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      115,
+      255
+    ],
+    "size_cm": 3.2,
+    "color": "blue"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      57,
+      181
+    ],
+    "size_cm": 3.2,
+    "color": "green"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      85,
+      182
+    ],
+    "size_cm": 3.2,
+    "color": "green"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      115,
+      183
+    ],
+    "size_cm": 3.2,
+    "color": "green"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      57,
+      154
+    ],
+    "size_cm": 3.2,
+    "color": "green"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      86,
+      154
+    ],
+    "size_cm": 3.2,
+    "color": "green"
+  },
+  {
+    "type": "spawn_block",
+    "pos": [
+      115,
+      152
+    ],
+    "size_cm": 3.2,
+    "color": "green"
+  }
+]
